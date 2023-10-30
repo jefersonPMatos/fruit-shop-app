@@ -55,10 +55,5 @@ Abra o Projeto no Expo Go: Após executar o comando acima, um QR code irá apare
 
 Versão Beta. 
 
----
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ⌨️ com ❤️ por [Jeferson P. Matos]([https://gist.github.com/lohhan](https://github.com/jefersonPMatos)https://github.com/jefersonPMatos) 
-
-
-Agora você deverá ser capaz de visualizar o seu aplicativo React Native em seu dispositivo móvel. Qualquer alteração que você faça no código será refletida automaticamente no aplicativo.
-
---------------------------------------------------------------------------------------------------------------------------------------------------------
