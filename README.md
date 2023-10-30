@@ -1,55 +1,64 @@
-# FRUIT SHOP APP
+# Fruit Shop - React Native
 
-## English
+Estudo de caso:
+um app de shop de frutas feito com React Native
 
-This is a React Native project. To run it, follow these steps:
+## 🚀 Começando
 
-1. **Clone the Repository**: 
-git clone <repository-url>
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de teste.
 
-2. **Navigate to the Project Directory**:
-cd project-directory
+### 📋 Pré-requisitos
+
+Clone o repositório
+
+```
+git clone git@github.com:jefersonpmatos/fruit-shop-app.git
+```
+
+### 🔧 Instalação
+Instale EXPO CLI:
+
+```
+yarn global add expo-cli
+```
+
+Instale as dependências:
+
+```
+npm install ou yarn add
+```
+
+Inicie o Servidor Expo
+
+```
+npm run start ou yarn start
+```
+
+Rode o projeto:
+
+Abra o Projeto no Expo Go: Após executar o comando acima, um QR code irá aparecer no terminal. Use o aplicativo `Expo Go` no seu smartphone para escanear o código QR e abrir o aplicativo.
 
 
-3. **Install Dependencies**:
-npm install
+### ⚡ Tecnologias
 
-4. **Run the Project**:
-- iOS (Simulator):
-  ```
-  npx react-native run-ios
-  ```
-
-- Android (Emulator or Device):
-  ```
-  npx react-native run-android
-  ```
-
-5. **Start Development**:
-You're all set to start coding and building your React Native app!
-
-## Português
-
-Este é um projeto React Native. Para rodá-lo, siga estes passos:
-
-1. **Clone o Repositório**:
-git clone <url-do-repositório>
+* ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+* ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+* ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+* ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
-2. **Navegue até o Diretório do Projeto**:
-cd diretório-do-projeto
 
-3. **Instale as Dependências**:
-npm install
 
-4. **Rode o Projeto**:
-- iOS (Simulador):
-  ```
-  npx react-native run-ios
-  ```
 
-- Android (Emulador ou Dispositivo):
-  ```
-  npx react-native run-android
-  ```
 
+## 📌 Versão
+
+Versão Beta. 
+
+---
+⌨️ com ❤️ por [Jeferson P. Matos]([https://gist.github.com/lohhan](https://github.com/jefersonPMatos)https://github.com/jefersonPMatos) 
+
+
+Agora você deverá ser capaz de visualizar o seu aplicativo React Native em seu dispositivo móvel. Qualquer alteração que você faça no código será refletida automaticamente no aplicativo.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
